@@ -1,4 +1,5 @@
-***Fields:***
+Fields
+
 1. Div : N (PTN), 1-14 (Kopertis I - XIV)
 2. Kode: Kode Lembaga
 3. Lembaga : Nama Lembaga
